@@ -20,7 +20,7 @@ be added as separate words. There are certain special commands that won't add wo
   make sure your file is in the appriopriate location or it will not work <br/>
   
 ***It's important to preface your commands with -. in order for them to work*** <br/>
-***Note that -.print, -.most and -.ifile command only work when there are two input words in the specified format*** <br/>
+***Note that -.print, -.most, and -.ifile command only work when there are two input words in the specified format*** <br/>
  <br/> 
 This is a work in progress so expect bugs. I'm TRIEing my best. Haha, get it? Because it's like the word try, ha ha ha...  <br/> <br/>
 
